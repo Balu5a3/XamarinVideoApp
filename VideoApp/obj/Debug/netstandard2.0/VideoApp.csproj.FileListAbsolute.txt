@@ -1,0 +1,12 @@
+D:\XAMARIN APPS\VideoApp\VideoApp\bin\Debug\netstandard2.0\VideoApp.deps.json
+D:\XAMARIN APPS\VideoApp\VideoApp\bin\Debug\netstandard2.0\VideoApp.dll
+D:\XAMARIN APPS\VideoApp\VideoApp\bin\Debug\netstandard2.0\ref\VideoApp.dll
+D:\XAMARIN APPS\VideoApp\VideoApp\bin\Debug\netstandard2.0\VideoApp.pdb
+D:\XAMARIN APPS\VideoApp\VideoApp\obj\Debug\netstandard2.0\VideoApp.csprojAssemblyReference.cache
+D:\XAMARIN APPS\VideoApp\VideoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\XAMARIN APPS\VideoApp\VideoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\XAMARIN APPS\VideoApp\VideoApp\obj\Debug\netstandard2.0\VideoApp.AssemblyInfoInputs.cache
+D:\XAMARIN APPS\VideoApp\VideoApp\obj\Debug\netstandard2.0\VideoApp.AssemblyInfo.cs
+D:\XAMARIN APPS\VideoApp\VideoApp\obj\Debug\netstandard2.0\VideoApp.dll
+D:\XAMARIN APPS\VideoApp\VideoApp\obj\Debug\netstandard2.0\ref\VideoApp.dll
+D:\XAMARIN APPS\VideoApp\VideoApp\obj\Debug\netstandard2.0\VideoApp.pdb
